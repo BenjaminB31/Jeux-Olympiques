@@ -1,4 +1,4 @@
-# Jeux-Olympiques
+# Jeux Olympiques
 Algorithme pour déterminer si les jeux olympiques ont eu lieu.
 
 TD - SCIENCES-U / EFFICOM LILLE 2019-2020
