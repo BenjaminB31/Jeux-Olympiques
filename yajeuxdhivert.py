@@ -6,10 +6,9 @@ if(a!=1916 and a!=1940 and a!= 1944):
             print("True")
         else:
             print("False")
-	fi
+
     else:
         print("False")
-    fi
+
 else:
 	print("False")
-fi
