@@ -6,4 +6,3 @@ elif((a!=1916 and a!=1940 and a!= 1944) and (a>=1924) and (a%4==2 and a%100!=2 o
     print("True")
 else:
 	print("False")
-fi
